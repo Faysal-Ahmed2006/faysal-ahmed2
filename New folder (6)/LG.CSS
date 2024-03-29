@@ -1,0 +1,74 @@
+.col-1{width: 8.33%;}
+.col-1{width: 16.66%;}
+.col-2{width: 25%;}
+.col-3{width: 33.33%;}
+.col-4{width: 41.66%;}
+.col-5{width: 50%;}
+.col-6{width: 58.33%;}
+.col-7{width: 66.66%;}
+.col-8{width: 75%;}
+.col-9{width: 83.33%;}
+.col-10{width: 91.66%;}
+.col-12{width: 100%;}
+
+#logo{
+float: left;
+}
+
+.navbar h1{
+text-align: right;
+
+}
+
+.navbar-link{
+flex-direction: row-reverse;
+justify-content: end;
+
+}
+
+.navbar-link a{
+background-color: transparent;
+
+   padding: 5px 10px; 
+ 
+}
+
+
+<!-- profile suru aikane ok -->
+
+.forfile{
+    padding: 130px 10px;
+    text-align: center;
+    }
+    
+    .profile-dec h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    }
+    
+    .profile-dec h1:hover{
+    color: rgb(163, 66, 66);
+    background-color: rgb(134, 134, 98);
+    border-radius: 50%;
+    width: 100%;
+    }
+    .profile-dec p{
+    color: rgb(167, 136, 136);
+    text-align: center;
+    width: 100%;
+    
+    }
+    
+    /* .profile-dec p:hover{
+        color: rgb(255, 255, 255);
+        background-color: #743b02;
+        border-radius: 50%;
+        width: 100%;
+        } */
+        
+    
+
+
+
+<!-- profile ses aikane ok -->
